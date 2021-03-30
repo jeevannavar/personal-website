@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog/welcome-to-devlopr-jekyll/</loc>
-<lastmod>2019-05-22T14:35:23+05:30</lastmod>
-</url>
-<url>
-<loc>/blog/using-netlify-cms/</loc>
-<lastmod>2020-05-23T15:22:20+05:30</lastmod>
-</url>
-<url>
-<loc>/blog/added-latex-equations-support/</loc>
-<lastmod>2020-10-24T10:35:23+05:30</lastmod>
-</url>
-<url>
-<loc>/blog/added-multi-author-support/</loc>
-<lastmod>2020-10-25T01:35:23+05:30</lastmod>
-</url>
-<url>
 <loc>/blog/adding-categories-tags-in-posts/</loc>
 <lastmod>2021-02-28T01:35:23+05:30</lastmod>
 </url>
@@ -50,9 +34,6 @@
 </url>
 <url>
 <loc>/styleguide/</loc>
-</url>
-<url>
-<loc>/blog/page/2/</loc>
 </url>
 <url>
 <loc>/admin/</loc>
