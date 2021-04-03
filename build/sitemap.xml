@@ -18,6 +18,9 @@
 <loc>/contact/</loc>
 </url>
 <url>
+<loc>/cv/</loc>
+</url>
+<url>
 <loc>/blog/categories/guides/</loc>
 </url>
 <url>
@@ -62,6 +65,10 @@
 <url>
 <loc>/assets/bower_components/typewrite/</loc>
 <lastmod>2021-03-20T10:41:26+05:30</lastmod>
+</url>
+<url>
+<loc>/assets/files/CV.pdf</loc>
+<lastmod>2020-12-10T20:03:39+05:30</lastmod>
 </url>
 <url>
 <loc>/assets/files/DDP_Preliminary_Report.pdf</loc>

@@ -13,6 +13,8 @@ urls:
       url: /about
     - text: Blog
       url: /blog
+    - text: Curriculum Vitae
+      url: /cv
     - text: Contact
       url : /contact
 
@@ -20,7 +22,7 @@ urls:
 
 author_logo: profile.png
 author: Aditya Jeevannavar
-author_bio: I conduct bioinformatics research as my dayjob and continue to stare at my laptop screen writing and tinkering on side-projects the rest of the day.
+author_bio: I work in bioinformatics by trade and in writing by hobby.
 author_email: "aditya@smail.iitm.ac.in"
 author_location: India
 author_website_url: "https://www.adityajeevannavar.com"
@@ -28,39 +30,97 @@ typewrite-text: I conduct bioinformatics research as my dayjob and continue to s
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Initiative for Biological Systems Engineering, IIT Madras
+              company_logo: ibse.png
+              company_url: https://ibse.iitm.ac.in/
+              designation: Student Researcher
+              description: 
+                - Integrating multi-omics data using Graph Convolutional Networks and View Correlation Discovery Network
+                - Utilizing pairwise interactions to iimprove performance and interpretability of hte graph convolution based model
+                - Processing multi-omics and multi-tissue data
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Indian Institute of Technology Madras
+              company_logo: iitm.png
+              company_url: https://www.iitm.ac.in
+              designation: Teaching Assistant
+              description: 
+                - Conducted introductory molecular biology classes and tutorials for a class of 20 students
+                - Assembled resources repositories for course projects on Moodle
+                - Created and graded assignments using Overleaf and Gradescope respectively
+              visibility: true
+            - company_name: Molecular Plant Biology Unit, University of Turku
+              company_logo: utu.jpg
+              company_url: https://www.utu.fi
+              designation: Laboratory Assistant
+              description: 
+                - Prepared various sterile glassware, media, broths, and stocks for microbial cultures and assays
+                - Maintained photosynthetic microbial cultures, measured growth, and imaged them under a compund microscope
+                - Ligated, inserted, and isolated plasmids, and performed gel electrophoreses
+              visibility: true
+            - company_name: Centre for BioSystems Science andn Engineering, Indian Institute of science
+              company_logo: bsse.jpg
+              company_url: https://be.iisc.ac.in/BEST.html
+              designation: Bio Engineering summer Training Program Interm
+              description: 
+                - Created new S. pombe strains for study using random spore analysis and replica plating
+                - Used fluorescent markers and confocal microscopy to visualize yeast mitochondrial proteins and nuclei
+                - Analysed the microscopy data using FIJI and MATLAB
+              visibility: true
+            - company_name: Department of Biotechnology, IIT Madras
+              company_logo: igem.png
+              company_url: https://2017.igem.org/Team:IIT-Madras
+              designation: iGEM Team Member
+              description: 
+               - Started The Language Project, a bio-science communication project in Indian and foreign languages
+               - Worked on ChassiDex, a unique resource for easy access and sharing of scientific protocols
+               - Maintained cultures, ran growth assays, prepared ultra-competent cells, and performed cell transformation
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: iitm.png
+                college_name: Indian Institute of Technology Madras
+                college_url: https://www.iitm.ac.in
+                college_degree: BS-MS (Dual Degree) in Biological Sciences
+                description: 
                 visibility: true
+              - college_logo: utu.jpg
+                college_name: University of Turku
+                college_url: https://www.utu.fi
+                college_degree: Student Exchange Program
+                description: 
+                visibility: true
+                
 
+# show_author_extracurriculars
+author_extracurriculars_details:
+              - logo: t5e.jpg
+                title: Writer and Editor
+                org: The Fifth Estate (T5E)
+                description: Wrote and edited articles for T5E, IIT Madras' student media body
+                url: https://t5eiitm.org
+                visibility: true
+                
+              - logo: iitmtv.png
+                title: Scriptwriter
+                org: IITMTV & Pod,da
+                description: Wrote stories and scripts for short films, musicals, and podcasts
+                url: https://www.youtube.com/user/IITMTV
+                visibility: true
+            
+              - logo: t5epodcast.png
+                title: Consultant
+                org: Vox Populi Vox Insti, the T5E Podcast
+                description: Consulted and created content for the podcast
+                url: https://t5epod.in
+                visibility: true
+                
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
                 visibility: true
 
 # social links
@@ -89,13 +149,14 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: false
-show_author_education_details: false
+show_author_work_experiences: true
+show_author_education_details: true
 show_author_project_details: false
+show_author_extracurriculars: true
 
 # pagination of posts
-paginate: 4
-per_page: 4
+paginate: 10
+per_page: 10
 paginate_path: "/blog/page/:num/"
 
 # minify
