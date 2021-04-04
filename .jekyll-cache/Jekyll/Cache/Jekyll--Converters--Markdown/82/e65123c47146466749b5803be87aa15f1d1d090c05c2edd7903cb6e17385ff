@@ -1,0 +1,37 @@
+I"�<h4 id="bioinformatics">Bioinformatics</h4>
+<p>I first gained an interest in biology and research in biology when I was in high school, particularly when I attended a DST INSPIRE camp in Belagavi. This directly led to me joining the dual degree program in biological sciences at the Indian Institute of Technology Madras.</p>
+
+<p>The summers of my first two years in college, I worked on characterising microbial cultures for the <a href="https://2017.igem.org/Team:IIT-Madras" target="_blank" rel="noopener noreferrer">iGEM competition</a> and interned at the <a href="https://be.iisc.ac.in/~vaish/" target="_blank" rel="noopener noreferrer">Cytomotors Lab</a> in BSSE, Indian Institute of Science. During these experiences and compulsory laboratory courses, my interest in wetlab work waned.</p>
+
+<p>In my third year, I took a course in Data Structures &amp; Algorithms and found that I wasn’t half bad at solving problems. I was soon hooked. I took more courses in bioinformatics and data analysis in the second half of my third year while I was at the University of Turku. I even participated in the <a href="https://bioinf.me/en/contest/2019/results?" target="_blank" rel="noopener noreferrer">bioinformatics contest</a> and finished 77th.</p>
+
+<p>I am now working on my dual degree project, <strong>Multi-omic and Multi-tissue Data Integration using Graph Convolutional Networks</strong>. (You can find the preliminary report <a href="/assets/files/DDP_Preliminary_Report.pdf" download="">here</a>.)</p>
+
+<h4 id="writing">Writing</h4>
+
+<p>In high school, I thought I was good at writing, mainly because the people I compared myself to—my classmates—seldom read anything outside of school and rarely wrote. Then I wrote the SAT and the mediocre score on the essay component broke my bubble.<br />
+            <br />
+            To improve, I started my own <a href="https://eggsyhash.blogspot.com/" target="_blank" rel="noopener noreferrer">blog</a>, as all young kids do. I wrote a lot of pretentious pieces unaware that they were pretentious. I find it hard to read them now myself. But documentation is necessary. And I won’t shy away from my cringey past.<br />
+            <br />
+            Since the intermittenly written blog, I’ve been shortlisted in a national-level <a href="https://sskhannagirlsdc.ac.in/damodarshree/index.php?pageurl=shortlisted" target="_blank" rel="noopener noreferrer">essay contest</a>, written and edited for <a href="https://www.t5eiitm.org/author/eggsy/" target="_blank" rel="noopener noreferrer">The Fifth Estate</a>—IIT Madras’ student media body, and started a satirical and absurdist humour newsletter with my friend <a href="https://saiguha.com">Momo</a>.<br />
+            <br />
+            Right now, I am writing stories for my weekly newsletter, <a href="https://thegrimes.substack.com" target="_blank" rel="noopener noreferrer">The Hindustan Grimes</a>, and working on some other pieces of fiction. More on this soon.<br />
+            <br />
+            I am demonstrably decent at writing now. The growth in my ability to write and the acquirement of a style is evident in the places hyperlinked above. Considering the evident trend and that growth is a function of time, I’m only going to get better.
+          &lt;/p&gt;
+      &lt;p&gt; &lt;/p&gt;
+        &lt;h4&gt;Side Projects&lt;/h4&gt;
+          &lt;p&gt;
+            I tend to get bored a lot and while bingeing television shows is a good way to pass time, it is not a good passtime. So I try to work on small projects on the side, just to do something. For example, as I’m writing this, setting up this website itself is my project.<br />
+            <br />
+            Many of the side projects involve writing. <a href="https://thegrimes.substack.com" target="_blank" rel="noopener noreferrer">The Hindustan Grimes</a> started as one such project. Right now, we’re almost done with the first season of twenty issues. For more updates, do <a href="https://thegrimes.substack.com/subscribe" target="_blank" rel="noopener noreferrer">subscribe</a> to the newsletter.<br />
+            <br />
+            I’m also writing the second chapter of a seven chapter novel about the social dynamics at a small house party. I started way back in January and have not been very disciplined in writing it. I’m guessing it’ll take me the whole year to complete it. I might actually put the first chapter up here soon.<br />
+            <br />
+            In early 2020, after completing my first set of courses in <a href="https://www.coursera.org/specializations/deep-learning" target="_blank" rel="noopener noreferrer">Deep Learning</a>, I set out to build a <b>trigger word detector</b> for my laptop. I realized soon after that my laptop’s sound system was fried and that it added too much noise to the input for anyone to discern any signal. The project has consequently been on hold till I overhaul my laptop or buy another one.<br />
+            <br />
+            In early 2021, after completing a set of courses in <a href="https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r" target="_blank" rel="noopener noreferrer">Data Visualization and Dashboarding with R</a>, I made a dashboard visualizing <a href="https://jeevannavar.shinyapps.io/Pending_Cases_Dashboard/" target="_blank" rel="noopener noreferrer">Case Pendency in India</a>. It looks good, but it is even better with plotly. I couldn’t put the plotly choropleths on shinyapps.io because of the processing limitations of the free tier. Check out the project on <a href="https://github.com/jeevannavar/Case-Pendency" target="_blank" rel="noopener noreferrer">github</a> for instructions on how to make it that much better.<br />
+            <br />
+            Recently, I have been working on a simple command line tic-tac-toe game, written in Python. It can be found <a href="https://github.com/jeevannavar/tic-tac-toe" target="_blank" rel="noopener noreferrer">here</a>. I got the idea from Robert Heaton’s <a href="https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/" target="_blank" rel="noopener noreferrer">article</a> on Programming Projects for Advanced Beginners. It has been fun working on this.
+          &lt;/p&gt;</p>
+:ET
