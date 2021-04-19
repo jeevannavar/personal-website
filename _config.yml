@@ -15,17 +15,17 @@ urls:
       url: /blog
     - text: Curriculum Vitae
       url: /cv
-    - text: Contact
-      url : /contact
+    - text: Impossible List
+      url : /impossible
 
 # Edit Author details
 
 author_logo: profile.png
 author: Aditya Jeevannavar
 author_bio: I work in bioinformatics by trade and in writing by hobby.
-author_email: "aditya@smail.iitm.ac.in"
+author_email: "aditya@jeevannavar.com"
 author_location: India
-author_website_url: "https://www.adityajeevannavar.com"
+author_website_url: "https://www.jeevannavar.com"
 typewrite-text: I conduct bioinformatics research as my dayjob and continue to stare at my laptop screen writing and tinkering on side-projects the rest of the day.
 
 # Experiences
