@@ -1,0 +1,64 @@
+I"z<h3>  Blog Categories </h3>
+
+<div id="categories">
+
+  <div class="category-box">
+    
+    <div id="#jekyll"></div>
+    <h4 class="category-head"><a href="/blog/categories/jekyll">jekyll</a></h4>
+    <a name="jekyll"></a>
+     
+    <article class="center">
+      <h6><a href="/jekyll/2021/03/28/welcome-to-jekyll.markdown/">Welcome to Jekyll!</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/jekyll/2021/03/28/welcome-to-jekyll/">Welcome to Jekyll!</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/blog/adding-categories-tags-in-posts/">Adding Multiple Categories in Posts</a></h6>
+    </article>
+
+
+    
+
+  </div>
+
+  <div class="category-box">
+    
+    <div id="#guides"></div>
+    <h4 class="category-head"><a href="/blog/categories/guides">guides</a></h4>
+    <a name="guides"></a>
+     
+    <article class="center">
+      <h6><a href="/blog/adding-categories-tags-in-posts/">Adding Multiple Categories in Posts</a></h6>
+    </article>
+
+
+    
+
+  </div>
+
+  <div class="category-box">
+    
+    <div id="#sample_category"></div>
+    <h4 class="category-head"><a href="/blog/categories/sample_category">sample_category</a></h4>
+    <a name="sample_category"></a>
+     
+    <article class="center">
+      <h6><a href="/blog/adding-categories-tags-in-posts/">Adding Multiple Categories in Posts</a></h6>
+    </article>
+
+
+    
+
+  </div>
+
+</div>
+
+:ET
