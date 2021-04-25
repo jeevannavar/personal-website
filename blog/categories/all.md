@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog Categories
-permalink: /blog/category/
+permalink: /blog/categories/
 ---
 
 
