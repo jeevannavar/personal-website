@@ -3,9 +3,10 @@ source "https://rubygems.org"
 gem 'jekyll', '~> 4.2', '>= 4.1.1'
 gem 'bundler'
 gem 'kramdown'
-gem 'rack-jekyll'
+#gem 'rack-jekyll'
 gem 'rake'
 gem 'puma'
+gem "rack", ">= 2.1.4"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -21,7 +22,7 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag', '~> 2.6.1'
     gem 'jekyll-sitemap', '~> 1.4.0'
     gem 'jekyll-menus', '~> 0.6.1'
-    gem 'jekyll-admin', '~> 0.10.2'
+    #gem 'jekyll-admin', '~> 0.10.2'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
