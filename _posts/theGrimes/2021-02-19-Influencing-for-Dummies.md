@@ -1,0 +1,25 @@
+---
+title: Unfluencers Anonymous expands For Dummies series with *Influencing For Dummies*
+author: eggsy
+category: thegrimes
+layout: grimes_post
+wordcount: 537
+---
+
+## Unfluencers Anonymous expands For Dummies series with *Influencing For Dummies*
+
+#### *Book now a recommended reading for Nation for NaMo Aspirants*
+
+**The World Wide Web, February 2021:** The For Dummies series is well known for bringing specific domain knowledge to laymen in an easily digestible manner. In its latest addition, it brought to the masses the hip and trending craft of influencing others into agreeing to having advertisements shoved their throats. The book was released by **Panda Book Home (PBH)** in Autumn 2020, and was the result of over a decade of rigorous research by Armenian researchers, Dr. K'oob Ecaf and Dr. Margat Sni. The book was a bust. 
+
+The book sold exactly 37 copies, with the authors buying around 25 of those to gift to friends and family. PBH Executive Ida Rathernot was appalled by the sales, but defended the authors vehemently. "This is to be expected during the release of a book whose target readership has the attention span of a goldfish. We expect that, over time, this book will become a cult classic, much like the film **The Room**," she said. "In the meantime, we will be utilising other rather unconventional methods for publicity."
+
+PBH has reportedly hired over 73 influencers to publicise this book by using Instagram Reels to summarise the book. Among the influencers hired was Anand Mitali, who we had reached out to for a comment on an unrelated story. He spoke to us at length over the phone. "Books are making less and less sense in the modern world. Man has not evolved to read 300 page theses on base superstructure theory. We have evolved to consume information in byte sized chunks, like the 280 characters of a tweet, or the screenshots of the tweet on Instagram. So it makes sense that modern bookhouses would turn to us to publicise their new books. However, it took me 3 months to read the book, reading two pages a day."
+
+Other influencers further confirmed that they had received pre-prints of the book many months in advance, and had been using the theories extolled in the book to improve their reach. One influencer confirmed that she improved her reach by over 300% using the book. On the other hand, actor and fervent patriot Akshay Kumar took to [Koo](http://kooapp.com) to talk about his experience growing followers. "These new trends to improve influencing having been made abroad. I've had an exponential growth in my Koo followers. 2X in 25 days. The Aatmanirbhar methods are always better. #IndiaTogether"^ he wrote on Koo. 
+
+##### **Book Review: Influencing for Dummies**
+
+**The Hindustan Grimes' Editorial Board**: ****Dr. Ecaf and Dr. Sni delve into the psychological aspects of influencing, and offer an actionable plan to improve growth while emphasising on what the influencers should keep front and centre: monetisation. While the book is a must read for all influencers, it is unclear if the book will ever reach the intended audience, and this is not so much an indictment of the authors than it is a statement on the state of affairs of the modern world. However, a must read for any average bibliophile with a voracious appetite for knowledge. 5/7.
+
+^Translated from Hindi

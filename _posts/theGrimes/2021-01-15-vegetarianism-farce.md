@@ -1,0 +1,21 @@
+---
+title: Flawed experiment finds vegetarianism a farce
+author: eggsy
+category: thegrimes
+layout: grimes_post
+wordcount: 345
+---
+
+## Flawed Experiment Finds Vegetarianism a Farce.
+
+#### *Bored restaurateur runs experiment. Prices meat lower. Finds no takers for paneer anymore.*
+
+**Shimoga, January 2021:** Vegetarianism, the consumption of products not involving slaughter of animals (without consent), is a practice followed by many. While many Indians consider it merely a way of life, there exist others who do it either to alleviate their guilty consciences of bringing harm to animals or to continue qualifying as a celebrity and staying in vogue. Some do it 'cause their friends fangirl peta and force them to forego meat. But the final outcome is inevitable; such a friendship won't last long.
+
+K. Dharamgowda, a third generation restaurateur from Shimoga, Karnataka, is a connoisseur of food. The only thing that overshadows his love of food and wealth is his love of science. Drawn early into the family business after his father's death, Dharamgowda was unable to stay in academia for long. His passion for science was as delectable as his ability for it was lacking.
+
+He was curious why certain people ate meat and certain didn't. So he went ahead and priced all the non-vegetarian dishes lower than the vegetarian ones for a week. He told everyone of the change in prices but not the intention behind it. He had heard of "blind studies". Throughout the week, there were no takers for veggies and paneer.
+
+Ecstatic with his findings, Dharamgowda invited the local media for a press conference. He declared, "Vegetarianism is not real. People are miserly. It will go away with cheaper meat. This is the truth." Asked about whether he would still sell his meat dishes at lower rates like before, he said, "No."
+
+Experts from the ministry of health and scientists from research institutions as well as industry have been at the forefront in acknowledging this pioneering work. Think-tanks and endowments have been formed to discuss, appreciate, and spread this pioneering indigenous work. Efforts are being made to put this finding into practice and government policy. Mr. Dharamgowda is expected to be honoured with a Padma award this Republic Day.
