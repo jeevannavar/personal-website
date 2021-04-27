@@ -16,7 +16,7 @@ urls:
     - text: Curriculum Vitae
       url: /cv
     - text: Impossible List
-      url : /impossible
+      url : /impossible/
 
 # Edit Author details
 
@@ -141,12 +141,12 @@ linkedin_username: AdiJ
 #mailchimp_form_url: https://username.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: aditya.jeevan@gmail.com
+#formspree_email: aditya.jeevan@gmail.com
 
 # syntax highlighter
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
+permalink: none
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
@@ -160,12 +160,12 @@ per_page: 10
 paginate_path: "/blog/page/:num/"
 
 # minify
-# compress_html:
-#   clippings: all
-#   comments: ["<!-- ", " -->"]
-#   endings: all
-#   ignore:
-#     envs: ['development']
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
 
 # Archives
 # jekyll-archives:

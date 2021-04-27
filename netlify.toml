@@ -21,9 +21,3 @@
   to = "https://www.jeevannavar.com"
   status = 301
   force = 301
-
-[[redirects]]
-  from = "https://adityajeevannavar.netlify.app/*"
-  to = "https://www.jeevannavar.com/:splat"
-  status = 301
-  force = 301
