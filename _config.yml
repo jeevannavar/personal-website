@@ -6,6 +6,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
+# syntax highlighter
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
 urls:
     - text: Home
       url: /
@@ -16,7 +21,7 @@ urls:
     - text: Curriculum Vitae
       url: /cv
     - text: Impossible List
-      url : /impossible/
+      url : /impossible
 
 # Edit Author details
 
@@ -142,11 +147,6 @@ linkedin_username: AdiJ
 
 # formspree (contact form)
 #formspree_email: aditya.jeevan@gmail.com
-
-# syntax highlighter
-markdown: kramdown
-highlighter: rouge
-permalink: none
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
