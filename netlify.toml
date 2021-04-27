@@ -4,3 +4,26 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+
+  
+[[redirects]]
+  from = "https://aditya.jeevannavar.com"
+  to = "https://www.jeevannavar.com"
+  status = 301
+  
+[[redirects]]
+  from = "https://aditya.jeevannavar.com/*"
+  to = "https://www.jeevannavar.com/:splat"
+  status = 301
+
+[[redirects]]
+  from = "https://adityajeevannavar.netlify.app"
+  to = "https://www.jeevannavar.com"
+  status = 301
+  force = 301
+
+[[redirects]]
+  from = "https://adityajeevannavar.netlify.app/*"
+  to = "https://www.jeevannavar.com/:splat"
+  status = 301
+  force = 301
