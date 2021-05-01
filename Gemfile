@@ -7,6 +7,7 @@ gem 'kramdown'
 gem 'rake'
 gem 'puma'
 gem "rack", ">= 2.1.4"
+gem "rexml", ">= 3.2.5"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
