@@ -1,5 +1,6 @@
 ---
 title: Rohit Shetty's Cop Universe to get The Avengers-esque ensemble alien threat movie
+summary: Stunt directors and VFX artists remain unconcerned
 author: eggsy
 category: thegrimes
 layout: grimes_post

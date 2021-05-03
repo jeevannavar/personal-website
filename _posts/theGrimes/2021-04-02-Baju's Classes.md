@@ -1,5 +1,6 @@
 ---
 title: EdTech Grassroots Aggregator Dot-com Baju's Disrupts Market
+summary: Vow not to be another brick in the paywall
 author: eggsy
 category: thegrimes
 layout: grimes_post

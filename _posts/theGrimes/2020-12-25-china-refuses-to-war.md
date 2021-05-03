@@ -1,5 +1,6 @@
 ---
 title: China refuses to fight war citing social distancing; Suggests CoD tournament instead
+summary: "CS:GO players outraged; claim their Zombie mods better."
 author: eggsy
 category: thegrimes
 layout: grimes_post

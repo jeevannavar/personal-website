@@ -1,5 +1,6 @@
 ---
 title: HC Judge notes the astounding number of peding cases in 500-page opinion piece
+summary: Lakshyadweep HC Judge tries joining online panel discussion; fails due to bad Jio connection.
 author: eggsy
 category: thegrimes
 layout: grimes_post

@@ -1,5 +1,6 @@
 ---
 title: Boy attempts suicide. Discovers autoerotic asphyxiation.
+summary: In an exclusive interview with the resident President of the Hedon's Society, our correspondent, Ado Ink, discovers their novel recruitment and matchmaking strategies.
 author: eggsy
 category: thegrimes
 layout: grimes_post

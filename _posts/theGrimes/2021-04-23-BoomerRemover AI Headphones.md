@@ -1,5 +1,6 @@
 ---
 title: Walmart procures AI-powered headphones that turns all speech polite
+summary: IBM Watson declares AI not a bubble
 author: eggsy
 category: thegrimes
 layout: grimes_post

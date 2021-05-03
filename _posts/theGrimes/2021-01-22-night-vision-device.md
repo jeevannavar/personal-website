@@ -1,5 +1,6 @@
 ---
 title: Army signs deal with Lithuanian Company. Sri(x4) Amar calls for reform.
+summary: "Kautilya's Arthashastra jumps to #1 on amazon.in"
 author: eggsy
 category: thegrimes
 layout: grimes_post

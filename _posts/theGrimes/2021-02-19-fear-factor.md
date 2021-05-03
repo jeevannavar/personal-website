@@ -1,5 +1,6 @@
 ---
 title: Chronically constipated man keeps shark in bathroom. PETA furious.
+summary: PETA India recommends reading Animal Farm for cultivating love for animals
 author: eggsy
 category: thegrimes
 layout: grimes_post

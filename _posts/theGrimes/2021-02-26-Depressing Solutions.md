@@ -1,5 +1,6 @@
 ---
 title: "Depressed? We have the solution: Govt."
+summary: Hotel? Trivago^
 author: eggsy
 category: thegrimes
 layout: grimes_post

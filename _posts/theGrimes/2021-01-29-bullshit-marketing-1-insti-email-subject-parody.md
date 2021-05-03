@@ -1,5 +1,6 @@
 ---
 title: Talk Delivered on Nobel Prize winning work from Faculty of IIT Madras
+summary: Work done by researchers; Presented by IITM Faculty
 author: eggsy
 category: thegrimes
 layout: grimes_post

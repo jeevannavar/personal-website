@@ -1,5 +1,6 @@
 ---
 title: Poor man cannot afford dentist; Superglues son's teeth together
+summary: Unarmed man robs prosthetics shop. Police attempt to disarm and unarm the consequently armed man.
 author: eggsy
 category: thegrimes
 layout: grimes_post

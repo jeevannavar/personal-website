@@ -1,5 +1,6 @@
 ---
 title: Facing extreme dearth, Airlines consider offering Pay Now, Fly WheNever
+summary: Among other measures, Air India hires Uber consultants; asks pilots to take care of their own parking and fuel; introduces pilot ratings.
 author: eggsy
 category: thegrimes
 layout: grimes_post

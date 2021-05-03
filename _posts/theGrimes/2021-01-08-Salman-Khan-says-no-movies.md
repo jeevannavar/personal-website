@@ -1,5 +1,6 @@
 ---
 title: Salman Khan refuses to release movie in 2021; Says people have suffered enough
+summary: '"Same": Shahrukh Khan'
 author: eggsy
 category: thegrimes
 layout: grimes_post
