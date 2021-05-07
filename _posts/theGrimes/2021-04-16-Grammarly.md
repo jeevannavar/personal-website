@@ -1,6 +1,6 @@
 ---
 title: IITM Dean promotes Grammarly. Make In India Dept. demands probe.
-summary: Grammarly to bring Grammar Nazism to Hindi, Kannada, Tamil soon
+byline: Grammarly to bring Grammar Nazism to Hindi, Kannada, Tamil soon
 author: eggsy
 category: thegrimes
 layout: grimes_post

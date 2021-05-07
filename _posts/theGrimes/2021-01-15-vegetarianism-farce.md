@@ -1,6 +1,6 @@
 ---
 title: Flawed experiment finds vegetarianism a farce
-summary: Bored restaurateur runs experiment. Prices meat lower. Finds no takers for paneer anymore.
+byline: Bored restaurateur runs experiment. Prices meat lower. Finds no takers for paneer anymore.
 author: eggsy
 category: thegrimes
 layout: grimes_post

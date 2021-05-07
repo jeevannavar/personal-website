@@ -1,6 +1,6 @@
 ---
 title: "Rekha Arya: A Profile of an Animal Welfare Activist"
-summary: "Cow is the only animal that not only inhales oxygen, but also exhales it : Arya"
+byline: "Cow is the only animal that not only inhales oxygen, but also exhales it : Arya"
 author: eggsy
 category: thegrimes
 layout: grimes_post

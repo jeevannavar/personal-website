@@ -1,6 +1,6 @@
 ---
 title: Cops burn confiscated marijuana; Students stoned
-summary: Canopy Growth Corporation stock price surges after a WSB meme
+byline: Canopy Growth Corporation stock price surges after a WSB meme
 author: eggsy
 category: thegrimes
 layout: grimes_post

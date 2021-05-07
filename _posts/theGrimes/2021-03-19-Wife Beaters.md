@@ -1,6 +1,6 @@
 ---
 title: Feminists accuse Lux Cozy of promoting domestic abuse; Seek redressal
-summary: "Maniesh Paul's Rs 13K ‘Big Logo' Sneakers Have Huge Stripes That Live Up To Its Name: MensXP"
+byline: "Maniesh Paul's Rs 13K ‘Big Logo' Sneakers Have Huge Stripes That Live Up To Its Name: MensXP"
 author: eggsy
 category: thegrimes
 layout: grimes_post

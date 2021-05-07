@@ -1,6 +1,6 @@
 ---
 title: Teachers to teach only 50% syllabus this year
-summary: Karnataka HC orders release of prisoners at half term
+byline: Karnataka HC orders release of prisoners at half term
 author: eggsy
 category: thegrimes
 layout: grimes_post

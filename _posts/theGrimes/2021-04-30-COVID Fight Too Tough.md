@@ -1,6 +1,6 @@
 ---
 title: Govt. says war on COVID too hard. Will target Vertigo instead
-summary: "#Disease?Vertigo trends #1 Twitter"
+byline: "#Disease?Vertigo trends #1 Twitter"
 author: eggsy
 category: thegrimes
 layout: grimes_post

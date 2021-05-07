@@ -1,6 +1,6 @@
 ---
 title: Numerologist charged with 13 counts of assault and battery requests additional charge
-summary: Sex offender sentenced to 68 years of imprisonment requests an additional year
+byline: Sex offender sentenced to 68 years of imprisonment requests an additional year
 author: eggsy
 category: thegrimes
 layout: grimes_post

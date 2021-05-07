@@ -1,6 +1,6 @@
 ---
 title: Chameleon Corps lost behind enemy lines
-summary: Inspires Yo Yo Honey Singh Hit Single " Chameleons be Chameleonin' "
+byline: Inspires Yo Yo Honey Singh Hit Single " Chameleons be Chameleonin' "
 author: eggsy
 category: thegrimes
 layout: grimes_post

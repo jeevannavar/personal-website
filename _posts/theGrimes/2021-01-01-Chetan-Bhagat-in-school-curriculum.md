@@ -1,6 +1,6 @@
 ---
 title: Finland Public Schools introduce 'Revolution 2020'
-summary: All public middle-school kids to study assorted works by Chetan Bhagat. Germany, Switzerland to follow Finn lead.
+byline: All public middle-school kids to study assorted works by Chetan Bhagat. Germany, Switzerland to follow Finn lead.
 author: eggsy
 category: thegrimes
 layout: grimes_post

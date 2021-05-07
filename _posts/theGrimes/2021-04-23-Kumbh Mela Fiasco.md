@@ -1,6 +1,6 @@
 ---
 title: PM Modi claims Kumbh Mela was a Secret Masterstroke
-summary: IITs demand expedited vaccines for students. Get rejected summarily. IIT Gandhinagar vaccinates students anyway.
+byline: IITs demand expedited vaccines for students. Get rejected summarily. IIT Gandhinagar vaccinates students anyway.
 author: eggsy
 category: thegrimes
 layout: grimes_post

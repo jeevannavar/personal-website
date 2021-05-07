@@ -1,6 +1,6 @@
 ---
 title: German man participates in book exchange. Receives 36 copies of Mein Kampf.
-summary: '"Book Lovers Unite: Gift a book. I need six (may exceed) people, of any age or nationality, to participate in a book exchange. You only have to ... "'
+byline: '"Book Lovers Unite: Gift a book. I need six (may exceed) people, of any age or nationality, to participate in a book exchange. You only have to ... "'
 author: eggsy
 category: thegrimes
 layout: grimes_post

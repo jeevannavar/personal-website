@@ -1,6 +1,6 @@
 ---
 title: McDonald's Burger Flippers to Work from Home
-summary: Mint workers request to make money at home
+byline: Mint workers request to make money at home
 author: eggsy
 category: thegrimes
 layout: grimes_post

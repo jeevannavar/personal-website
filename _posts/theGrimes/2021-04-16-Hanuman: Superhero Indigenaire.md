@@ -1,6 +1,6 @@
 ---
 title: Censor Board and RSS approve indigenous superhero for the Indian audience
-summary: Anurag Kashyap removed from project after first draft of script leaks
+byline: Anurag Kashyap removed from project after first draft of script leaks
 author: eggsy
 category: thegrimes
 layout: grimes_post

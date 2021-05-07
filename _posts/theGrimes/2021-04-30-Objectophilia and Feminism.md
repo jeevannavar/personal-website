@@ -1,6 +1,6 @@
 ---
 title: "Popular feminist spokesperson, May May, releases new book on Objectification of Women"
-summary: Objectification and Objectophilia offends the objectifiers, the objectified, and the objectophiliacs alike.
+byline: Objectification and Objectophilia offends the objectifiers, the objectified, and the objectophiliacs alike.
 author: eggsy
 category: thegrimes
 layout: grimes_post

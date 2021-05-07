@@ -1,6 +1,6 @@
 ---
 title: Unfluencers Anonymous expands For Dummies series with *Influencing For Dummies*
-summary: Book now a recommended reading for Nation for NaMo Aspirants
+byline: Book now a recommended reading for Nation for NaMo Aspirants
 author: eggsy
 category: thegrimes
 layout: grimes_post

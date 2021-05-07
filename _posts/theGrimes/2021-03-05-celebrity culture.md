@@ -1,6 +1,6 @@
 ---
 title: Popular celebrity loses battle against weakened vision
-summary: Rumours of Actress Sudarshini's stolen bookmark debunked by fact checkers who revealed she cannot read.
+byline: Rumours of Actress Sudarshini's stolen bookmark debunked by fact checkers who revealed she cannot read.
 author: eggsy
 category: thegrimes
 layout: grimes_post
