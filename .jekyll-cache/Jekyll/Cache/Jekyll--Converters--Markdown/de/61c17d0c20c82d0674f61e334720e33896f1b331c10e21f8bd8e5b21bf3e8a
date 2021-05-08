@@ -1,4 +1,4 @@
-I" 3<h3>  Blog Categories </h3>
+I"ú5<h3>  Blog Categories </h3>
 <p><br /></p>
 
 <div id="categories">
@@ -7,7 +7,7 @@
 	    
 	    <div id="#perspective"></div>
 	    <h4 class="category-head">
-	    		<a href="/perspective">perspective</a>
+	    		<a href="/perspective">{"name"=&gt;"Perspective aka Naive Teenage Ramblings", "avatar"=&gt;"perspective.png", "bio"=&gt;"This is the blog I started writing when I was 15 years old. I did not write consistently, but there is still enough written material from then to show that I am much much better now."}</a>
 	    	</h4>
 	    	<br />
 	    <a name="perspective"></a>
@@ -236,10 +236,16 @@
 	    
 	    <div id="#thegrimes"></div>
 	    <h4 class="category-head">
-	    		<a href="/thegrimes">thegrimes</a>
+	    		<a href="/thegrimes">{"name"=&gt;"The Hindustan Grimes", "avatar"=&gt;"thegrimes.jpg", "bio"=&gt;"This is the weekly absurdist humour and satirical newsletter that I write, together with Momo."}</a>
 	    	</h4>
 	    	<br />
 	    <a name="thegrimes"></a>
+	    
+	    <article class="center">
+	      <h6>
+	      	&emsp;&emsp;<a href="/thegrimes/Quotes/">Momo and Eggsy's Excellent Adventure</a>
+	      </h6>
+	    </article>
 	    
 	    <article class="center">
 	      <h6>

@@ -9,12 +9,12 @@ permalink: /blog/categories/
 <br>
 
 <div id="categories">
-	{% for category in site.categories %}
+	{% for category in site.data.categories %}
 	  <div class="category-box" >
 	    {% capture category_name %}{{ category | first }}{% endcapture %}
 	    <div id="#{{ category_name | slugize }}"></div>
 	    <h4 class="category-head">
-	    		<a href="{{ site.baseurl }}/{{ category_name }}">{{ category_name}}</a>
+	    		<a href="{{ site.baseurl }}/{{ category_name }}">{{ site.data.categories[category_name].name}}</a>
 	    	</h4>
 	    	<br>
 	    <a name="{{ category_name | slugize }}"></a>

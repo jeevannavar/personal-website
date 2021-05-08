@@ -6,18 +6,18 @@ permalink: /thegrimes/
 
 <h3> {{ page.title }} </h3>
 
-Here are articles I've written for <a href="https://thegrimes.substack.com" target="_blank">The Hindustan Grimes</a>. The newsletter goes out once a week, on the Friday, and has three articles each issue. <a href="https://saiguha.com" target="_blank">Momo</a> and I write articles for the newsletter. Here, I've listed articles that I've written.
+Here are articles I've written for <a href="https://thegrimes.substack.com" target="_blank">The Hindustan Grimes</a>. The newsletter goes out once a week, on the Friday, and has three articles each issue. <a href="https://saiguha.com" target="_blank">Momo</a> and I write articles for the newsletter. Here, I've listed articles that I've written.  
+<br>
 
-<div style="padding: 20px; padding-left: 50px">
+<table style="width:100%; border-spacing: 15px;">
 	{% for post in site.categories.thegrimes %}
-	 <li>
-		 <span style="display: inline-block; width:100px">
+	<tr>
+		 <td id="grimes-date" width="25%" style="padding-right: 10px; padding-bottom: 10px;">
 		 	{{ post.date | date_to_string }}
-		 </span> 
-		 &nbsp; 
-		 <span>
+		 </td> 
+		 <td style="padding-bottom: 10px">
 			 <a href="{{ post.url }}">{{ post.title }}</a>
-		 </span>
-	 </li>
+		 </td> 
+	</tr>			 
 	{% endfor %}
-</div> 
+</table>

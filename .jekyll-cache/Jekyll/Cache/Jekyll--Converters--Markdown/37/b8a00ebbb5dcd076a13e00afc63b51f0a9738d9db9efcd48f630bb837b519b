@@ -1,4 +1,4 @@
-I"b3<h3>  Blog Categories </h3>
+I"34<h3>  Blog Categories </h3>
 <p><br /></p>
 
 <div id="categories">
@@ -7,7 +7,7 @@
 	    
 	    <div id="#perspective"></div>
 	    <h4 class="category-head">
-	    		<a href="/perspective">perspective</a>
+	    		<a href="/perspective"></a>
 	    	</h4>
 	    	<br />
 	    <a name="perspective"></a>
@@ -236,7 +236,7 @@
 	    
 	    <div id="#thegrimes"></div>
 	    <h4 class="category-head">
-	    		<a href="/thegrimes">thegrimes</a>
+	    		<a href="/thegrimes"></a>
 	    	</h4>
 	    	<br />
 	    <a name="thegrimes"></a>
@@ -418,6 +418,12 @@
 	    <article class="center">
 	      <h6>
 	      	&emsp;&emsp;<a href="/thegrimes/Chetan-Bhagat-in-school-curriculum/">Finland Public Schools introduce 'Revolution 2020'</a>
+	      </h6>
+	    </article>
+	    
+	    <article class="center">
+	      <h6>
+	      	&emsp;&emsp;<a href="/thegrimes/china-refuses-to-war/">China refuses to fight war citing social distancing; Suggests CoD tournament instead</a>
 	      </h6>
 	    </article>
 	    

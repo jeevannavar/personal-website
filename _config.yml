@@ -122,11 +122,11 @@ author_extracurriculars_details:
                 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
+              - project_thumbnail: 
+                project_title:
+                project_description: 
+                project_url: 
+                visibility: 
 
 # social links
 twitter_username: eggsywastaken

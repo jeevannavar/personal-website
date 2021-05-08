@@ -5,8 +5,8 @@
     <description>I conduct bioinformatics research as my dayjob and continue to stare at my laptop screen writing and tinkering on side-projects the rest of the day.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 May 2021 13:26:58 +0530</pubDate>
-    <lastBuildDate>Fri, 07 May 2021 13:26:58 +0530</lastBuildDate>
+    <pubDate>Sat, 08 May 2021 18:02:58 +0530</pubDate>
+    <lastBuildDate>Sat, 08 May 2021 18:02:58 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
 
     
@@ -1233,12 +1233,12 @@
 &lt;br&gt;
 
 &lt;div id=&quot;categories&quot;&gt;
-	{% for category in site.categories %}
+	{% for category in site.data.categories %}
 	  &lt;div class=&quot;category-box&quot; &gt;
 	    {% capture category_name %}{{ category | first }}{% endcapture %}
 	    &lt;div id=&quot;#{{ category_name | slugize }}&quot;&gt;&lt;/div&gt;
 	    &lt;h4 class=&quot;category-head&quot;&gt;
-	    		&lt;a href=&quot;{{ site.baseurl }}/{{ category_name }}&quot;&gt;{{ category_name}}&lt;/a&gt;
+	    		&lt;a href=&quot;{{ site.baseurl }}/{{ category_name }}&quot;&gt;{{ site.data.categories[category_name].name}}&lt;/a&gt;
 	    	&lt;/h4&gt;
 	    	&lt;br&gt;
 	    &lt;a name=&quot;{{ category_name | slugize }}&quot;&gt;&lt;/a&gt;
@@ -1334,21 +1334,20 @@ I'm working on a bunch of things in the list right now. I will strike things out
             <title>Perspective: My Approach</title>
             <description>&lt;h3&gt; {{ page.title }} &lt;/h3&gt;
 
-This list contains articles I wrote when I was still a teenager. A few of them are decent. A few of them might make you, and likely me too, cringe. I keep it here to remind myself that future me will look at present me with the same pity that I currently view teenage me with. I do hope that that happens. Have to keep improving.
+This list contains articles I wrote when I was still a teenager. A few of them are decent. A few of them might make you, and likely me too, cringe. I keep it here to remind myself that future me will look at present me with the same pity that I currently view teenage me with. I do hope that that happens. Have to keep improving.  
+&lt;br&gt;
 
-&lt;div style=&quot;padding: 20px; padding-left: 50px&quot;&gt;
+&lt;table style=&quot;width:100%&quot;&gt;
 	{% for post in site.categories.perspective %}
-	 &lt;li&gt;
-		 &lt;span style=&quot;display: inline-block; width:100px&quot;&gt;
-		 	{{ post.date | date_to_string }}
-		 &lt;/span&gt; 
-		 &amp;nbsp; 
-		 &lt;span&gt;
+	&lt;tr&gt;
+		 &lt;td&gt;{{ post.date | date_to_string }}&lt;/td&gt; 
+		 &lt;td&gt;
 			 &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;
-		 &lt;/span&gt;
-	 &lt;/li&gt;
+		 &lt;/td&gt; 
+	&lt;/tr&gt;			 
 	{% endfor %}
-&lt;/div&gt; 
+&lt;/table&gt;
+
 </description>
             <link>/perspective/</link>
           </item>
@@ -1377,21 +1376,21 @@ This list contains articles I wrote when I was still a teenager. A few of them a
             <title>The Hindustan Grimes</title>
             <description>&lt;h3&gt; {{ page.title }} &lt;/h3&gt;
 
-Here are articles I've written for &lt;a href=&quot;https://thegrimes.substack.com&quot; target=&quot;_blank&quot;&gt;The Hindustan Grimes&lt;/a&gt;. The newsletter goes out once a week, on the Friday, and has three articles each issue. &lt;a href=&quot;https://saiguha.com&quot; target=&quot;_blank&quot;&gt;Momo&lt;/a&gt; and I write articles for the newsletter. Here, I've listed articles that I've written.
+Here are articles I've written for &lt;a href=&quot;https://thegrimes.substack.com&quot; target=&quot;_blank&quot;&gt;The Hindustan Grimes&lt;/a&gt;. The newsletter goes out once a week, on the Friday, and has three articles each issue. &lt;a href=&quot;https://saiguha.com&quot; target=&quot;_blank&quot;&gt;Momo&lt;/a&gt; and I write articles for the newsletter. Here, I've listed articles that I've written.  
+&lt;br&gt;
 
-&lt;div style=&quot;padding: 20px; padding-left: 50px&quot;&gt;
+&lt;table style=&quot;width:100%; border-spacing: 15px;&quot;&gt;
 	{% for post in site.categories.thegrimes %}
-	 &lt;li&gt;
-		 &lt;span style=&quot;display: inline-block; width:100px&quot;&gt;
+	&lt;tr&gt;
+		 &lt;td id=&quot;grimes-date&quot; width=&quot;25%&quot; style=&quot;padding-right: 10px; padding-bottom: 10px;&quot;&gt;
 		 	{{ post.date | date_to_string }}
-		 &lt;/span&gt; 
-		 &amp;nbsp; 
-		 &lt;span&gt;
+		 &lt;/td&gt; 
+		 &lt;td style=&quot;padding-bottom: 10px&quot;&gt;
 			 &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;
-		 &lt;/span&gt;
-	 &lt;/li&gt;
+		 &lt;/td&gt; 
+	&lt;/tr&gt;			 
 	{% endfor %}
-&lt;/div&gt; 
+&lt;/table&gt;
 </description>
             <link>/thegrimes/</link>
           </item>
