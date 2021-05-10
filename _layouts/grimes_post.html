@@ -1,24 +1,43 @@
 ---
 layout: default
 ---
+<style>
+  a:hover {text-decoration: none;}
+</style>
+
 <div class="row">
     <div class="col-lg-7 offset-lg-1">
         <div class="card">
             <div class="col-md-10 offset-md-1 offset-md-right">
-            {{ content }}
+            	{{ content }}
              </div>
         </div>
     </div>
     <div class="col-lg-3">
-        
         <div class="card">
-            <div class="card-header">Categories </div>
+            <div class="card-header">
+            	<a href="https://thegrimes.substack.com" target="_blank">
+            		<h4>The Hindustan Grimes</h4>
+            	</a>
+            </div>
+            <div class="card-body">
+                A weekly absurdist humour and satirical newsletter that I have been writing since December 25, 2020, together with <a href="https://saiguha.com" target="_blank" rel="noopener noreferrer">Momo</a>. Check out the newsletter at <a href="https://thegrimes.substack.com" target="_blank">substack</a> and <a href="https://thegrimes.substack.com/subscribe" target="_blank">subscribe here</a>.
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+            	<a href="{{ site.baseurl }}/blog/categories">
+            		<h4>Categories</h4>
+            	</a>
+            </div>
             <div class="card-body text-dark">
                 {%- include blog_categories.html -%}
             </div>
         </div>
         <div class="card">
-            <div class="card-header">Useful Links</div>
+            <div class="card-header">
+            	<h4>Useful Links</h4>
+            </div>
             <div class="card-body text-dark">
               {% for i in site.urls %}
               <li>
@@ -28,7 +47,9 @@ layout: default
             </div>
         </div>
         <div class="card">
-            <div class="card-header">About {{site.author}}</div>
+            <div class="card-header">
+            	<h4>About Me</h4>
+            </div>
             <div class="card-body">
               <p class="author_bio">{{ site.typewrite-text }}</p>
             </div>
