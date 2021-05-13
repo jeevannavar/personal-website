@@ -23,6 +23,7 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag', '~> 2.6.1'
     gem 'jekyll-sitemap', '~> 1.4.0'
     gem 'jekyll-menus', '~> 0.6.1'
+    gem 'link-preview'
     #gem 'jekyll-admin', '~> 0.10.2'
 end
 
