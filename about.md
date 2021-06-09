@@ -11,7 +11,7 @@ The summers of my first two years in college, I worked on characterising microbi
 
 In my third year, I took a course in Data Structures & Algorithms and found that I wasn't half bad at solving problems. I was soon hooked. I took more courses in bioinformatics and data analysis in the second half of my third year while I was at the University of Turku. I even participated in the <a href="https://bioinf.me/en/contest/2019/results?" target="_blank" rel="noopener noreferrer">bioinformatics contest</a> and finished 77th.  
 
-I am now working on my dual degree project, **Multi-omic and Multi-tissue Data Integration using Graph Convolutional Networks**. (You can find the preliminary report <a href="{{site.url}}{{site.baseurl}}/assets/files/DDP_Preliminary_Report.pdf" download>here</a>.)  
+I am now working on my dual degree project, **Cross-omic Deep Learning Networks for Identifying Disease Biomarkers**. (You can find <a href="{{site.url}}{{site.baseurl}}/assets/files/DDP_Preliminary_Report.pdf" download>the preliminary report here</a> and <a href="{{site.url}}{{site.baseurl}}/assets/files/DDP_Final_Report.pdf" download>the final report here</a>.)  
 
 
 #### Writing  
