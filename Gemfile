@@ -5,7 +5,7 @@ gem 'bundler'
 gem 'kramdown'
 #gem 'rack-jekyll'
 gem 'rake'
-gem 'puma'
+gem "puma", ">= 5.3.1"
 gem "rack", ">= 2.1.4"
 gem "rexml", ">= 3.2.5"
 

@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://www.jeevannavar.com/sitemap.xml
