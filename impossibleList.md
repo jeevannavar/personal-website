@@ -24,8 +24,9 @@ I'm working on a bunch of things in the list right now. I will strike things out
 * Run 10k in 1 hour
 * Run a Half Marathon
 * Run a Marathon
-* Squat 100kg (as of April '21, 75kg)
-* Do 20 pullups
+* ~~Squat 100kg~~ (Monday, the 4th of April, 2022)
+	- Squat 125kg (Current max 112kg) 
+* Do 20 pullups (Current max 12)
 * Get six-pack abs
 * Do a handstand push-up
 
@@ -35,7 +36,7 @@ I'm working on a bunch of things in the list right now. I will strike things out
 * Visit all 36 states and union territories  
 	\[Visited: Andhra Pradesh, Delhi, Goa, Gujarat, Karnataka, Maharashtra, Rajasthan, Tamil Nadu, Uttar Pradesh\]
 * Visit all countries in Europe  
-	\[Visited: Austria, Belgium, Czech Republic, Estonia, Finland, France, Germany, Italy, Latvia, liechtenstein, Lithuania, Netherlands, Poland, Spain, Switzerland, United Kingdom, Vatican City\]
+	\[Visited: Austria, Belgium, Czech Republic, Estonia, Finland, France, Germany, Italy, Latvia, Liechtenstein, Lithuania, Netherlands, Norway, Poland, Spain, Sweden, Switzerland, United Kingdom, Vatican City\]
 * Visit every continent
 
 <br>
@@ -45,7 +46,8 @@ I'm working on a bunch of things in the list right now. I will strike things out
 	- Do a backflip
 	- Do a wallflip
 	- Do a frontflip
-* Learn to play a musical instrument
+* Learn to play a musical instrument 
 * Win a pub quiz
+	Closest was a close third place finish at William's Pub, Uppsala
 
 <br>
