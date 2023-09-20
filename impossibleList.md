@@ -29,6 +29,7 @@ I'm working on a bunch of things in the list right now. I will strike things out
 * Do 20 pullups (Current max 12)
 * Get six-pack abs
 * Do a handstand push-up
+* Climb a 6C+ rated wall
 
 <br>
 ### Travel
@@ -36,18 +37,22 @@ I'm working on a bunch of things in the list right now. I will strike things out
 * Visit all 36 states and union territories  
 	\[Visited: Andhra Pradesh, Delhi, Goa, Gujarat, Karnataka, Maharashtra, Rajasthan, Tamil Nadu, Uttar Pradesh\]
 * Visit all countries in Europe  
-	\[Visited: Austria, Belgium, Czech Republic, Estonia, Finland, France, Germany, Italy, Latvia, Liechtenstein, Lithuania, Netherlands, Norway, Poland, Spain, Sweden, Switzerland, United Kingdom, Vatican City\]
+	\[Visited: Austria, Belgium, Czech Republic, England, Estonia, Finland, France, Germany, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Netherlands, Norway, Poland, Spain, Sweden, Switzerland, Vatican City\]
 * Visit every continent
+	\[Visited: Asia, Europe, North America\]
 
 <br>
 ### Miscellaneous
 
+* Learn 10 forms of dance (2/10)
+	\[Can currently do Salsa and Kizomba\]
 * Learn parkour
 	- Do a backflip
 	- Do a wallflip
 	- Do a frontflip
 * Learn to play a musical instrument 
-* Win a pub quiz
-	Closest was a close third place finish at William's Pub, Uppsala
+* Win a pub quiz  
+	\[Closest was a close third place finish at William's Pub, Uppsala\]
+* Learn skydiving
 
 <br>
